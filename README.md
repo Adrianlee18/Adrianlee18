@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, writing, photography, and web design.
 - 🌱 I’m currently learning Front-end.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... through my email (admiralghost18@gmail.con
+- 📫 How to reach me ... through my email (admiralghost18@gmail.com)
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: Coding has over 700 languages.
 
