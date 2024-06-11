@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Adrianlee18
-- 👀 I’m interested in ... coding and writing
-- 🌱 I’m currently learning ... programming
+- 👀 I’m interested in coding, writing, photography, and web design.
+- 🌱 I’m currently learning Front-end.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... through my email (admiralghost18@gmail.con
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: Coding has over 700 languages.
 
 <!---
 Adrianlee18/Adrianlee18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
